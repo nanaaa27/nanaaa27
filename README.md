@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nanaaa27
+- 👋 Hi, I’m nanaa!
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on designing
