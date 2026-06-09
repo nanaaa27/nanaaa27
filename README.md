@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on designing
-- 📫 How to reach me @nanamade.design on IG
+- 📫 How to reach me @nanaartsiee__ on IG
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I love art
 
