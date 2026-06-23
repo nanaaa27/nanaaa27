@@ -1,30 +1,43 @@
-# Hi 👋, I'm na.nabila
 
-### A passionate developer (Entry-Level)
+<div align="center">
+  <img src="header.jpg" width="100%" alt="Matcha Header"/>
+  <h1>🍵 Welcome to Nana's Corner! 🍵</h1>
+</div>
 
-- 🔭 I'm currently working on **Building responsive and modern web interfaces**
+<div align="center">
+  <h3>🍵 My Statistics 🍵</h3>
+  <!-- Kotak Statistik Utama -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nanaaa27&show_icons=true&title_color=81C784&icon_color=F48FB1&text_color=333333&bg_color=FFFFFF&hide_border=true&count_private=true" alt="Nana's GitHub Stats" />
 
-- 🌱 I'm currently learning **Advanced Front-End development, JavaScript frameworks/Logic, and UI/UX design concepts**
 
-- 👯 I'm looking to collaborate on **Open-source front-end projects or creative web development ideas**
+  <!-- Kotak Bahasa yang Paling Sering Digunakan -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanaaa27&layout=compact&title_color=81C784&text_color=333333&bg_color=FFFFFF&hide_border=true" alt="Nana's Top Languages" />
+</div>
 
-- 🤝 I'm looking for help with **Best practices in writing clean code and deploying web applications**
+<div align="center">
+  <br />
+  <!-- Kotak Streak Kontribusi -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanaaa27&theme=black-on-white&ring=81C784&fire=F48FB1&currStreakNum=81C784&sideNums=333333&sideLabels=333333&dates=777777&hide_border=true" alt="Nana's Streak Stats" />
+</div>
 
-- 💬 Ask me about **HTML, CSS, Javascript, and basic software engineering principles**
 
-- 📫 How to reach me **nabilabilaa94@gmail.com**
+---
 
-- ⚡ Fun fact **I can spend hours finding the perfect color palette for a design (or singing on study breaks)!**
 
-- 👨‍💻 All of my projects are available at **[https://nanaaa27.github.io/myportfolio-nabila/](https://nanaaa27.github.io/myportfolio-nabila/)**
+<div align="center">
+  <h3>💻 Technologies 💻</h3>
+  
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-F48FB1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-81C784?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F48FB1?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/Bootstrap-81C784?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-F48FB1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</div>
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1w3sXXegNX2SWENmfx44vBr9ppo67Vied/view?usp=drivesdk](https://drive.google.com/file/d/1w3sXXegNX2SWENmfx44vBr9ppo67Vied/view?usp=drivesdk)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/nanaaa27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nanaaa27" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
 
