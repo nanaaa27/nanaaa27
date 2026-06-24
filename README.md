@@ -23,6 +23,17 @@
   <a href="https://wa.me/6285714112804" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-FFB7C5?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+
+  <!-- Tombol 4: LinkedIn -->
+<a href="https://www.linkedin.com/in/nabila-bilaa-956657326?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-81C784?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<!-- Tombol 5: Gmail -->
+<a href="mailto:nabilabilaa94@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-FFB7C5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 </div>
 
 
