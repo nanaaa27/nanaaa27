@@ -10,7 +10,7 @@
   <br />
 
   <!-- Tombol 1: Web Portfolio (Menggantikan About Me) -->
-  <a href="https://nanaaa27.github.io/myportfolio-nabila/" target="_blank">
+  <a href="https://nanaaa27.github.io/portfolio-nabila/" target="_blank">
     <img src="https://img.shields.io/badge/Web_Portfolio-FFB7C5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Portfolio"/>
   </a>
   
